@@ -1,0 +1,249 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/adlet",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "adlet",
+    "name": "Adlet",
+    "aliases": [
+      {
+        "name": "Erqigdlit",
+        "language": "Inuit",
+        "meaning": "Regional variant name"
+      },
+      {
+        "name": "Qiqirn",
+        "language": "Greenlandic",
+        "meaning": "Phantom dog (related but distinct)"
+      }
+    ],
+    "category": "CRYPTID",
+    "subcategory": "Mythological Creature",
+    "tags": [
+      "inuit-mythology",
+      "dog-human-hybrid",
+      "transformation",
+      "creation-myth",
+      "liminal-being",
+      "origin-story",
+      "cultural-tradition"
+    ],
+    "status": "mythological",
+    "description": {
+      "summary": "Inuit dog-human hybrid creatures with lower body of dog and upper body of human (or reverse), fierce warriors descended from the offspring of a woman who married a dog.",
+      "full": "Adlet are dog-human hybrid creatures from Inuit mythology. In most versions, they have the lower body of a dog and upper body of a human, though some variants reverse this arrangement. According to Inuit creation myths, the Adlet originated when a woman married a dog, and their offspring were these half-dog children. The Adlet are described as fierce warriors who live separately from humans. In some Inuit traditions, the Adlet are considered ancestors of both their own race and Europeans, serving as an origin myth that explains the existence of other peoples. The creature represents themes of transformation and the boundary between human and animal, serving as a cautionary tale about proper social boundaries while also functioning as a creation mythology."
+    },
+    "etymology": {
+      "origin": "Inuit languages, meaning related to dog-people",
+      "meaning": "Dog-legged or dog-people",
+      "regional_variations": "Adlet, Erqigdlit, and related terms across Inuit regions"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Mythological Creature",
+      "subtype": "Hybrid",
+      "variant": "Inuit/Arctic"
+    },
+    "related_phenomena": [
+      {
+        "id": "cynocephali",
+        "name": "Cynocephali",
+        "relationship": "similar",
+        "description": "Dog-headed people from various world mythologies"
+      },
+      {
+        "id": "werewolf",
+        "name": "Werewolf",
+        "relationship": "similar",
+        "description": "Human-canine transformation mythology"
+      },
+      {
+        "id": "qiqirn",
+        "name": "Qiqirn",
+        "relationship": "related",
+        "description": "Greenlandic phantom dog, related creature"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "features": [
+        {
+          "feature": "Lower body",
+          "description": "Dog legs and lower body (most common version)",
+          "frequency": "common"
+        },
+        {
+          "feature": "Upper body",
+          "description": "Human torso, arms, and head (most common version)",
+          "frequency": "common"
+        },
+        {
+          "feature": "Reverse configuration",
+          "description": "Some versions describe human lower body, dog upper body",
+          "frequency": "occasional"
+        },
+        {
+          "feature": "Warrior aspect",
+          "description": "Fierce, warrior-like appearance and demeanor",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Hybrid creature combining human and canine features in various configurations"
+    },
+    "abilities": [
+      {
+        "ability": "Fierce combat",
+        "description": "Renowned as fierce warriors",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Hybrid nature",
+        "description": "Possesses traits of both human and dog",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      }
+    ],
+    "behavior": {
+      "disposition": "fierce, warrior-like",
+      "social_structure": "live separately from humans as their own people",
+      "patterns": [
+        "Live apart from human communities",
+        "Described as fierce warriors",
+        "Part of Inuit origin mythologies",
+        "Represent liminal state between human and animal"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Inuit traditional territories, particularly in creation mythology contexts",
+      "continents": ["North America"],
+      "countries": ["Canada", "Greenland"],
+      "regions": [
+        "Arctic Canada",
+        "Greenland",
+        "Inuit cultural regions"
+      ]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "Pre-colonial",
+        "circa": true,
+        "source": "Inuit oral traditions and creation myths"
+      },
+      "cultural_period": "Traditional Inuit mythology, creation stories",
+      "modern_presence": "Preserved in cultural teachings and folklore studies"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Inuit creation mythology and origin stories",
+      "earliest_accounts": "Pre-colonial oral traditions",
+      "folklore_connections": "Connected to worldwide dog-headed people myths, human-animal boundary stories, and origin mythologies"
+    },
+    "origin_myth": {
+      "story": "A woman married a dog, and their offspring were the Adlet - half-dog, half-human creatures",
+      "significance": "Explains origins of both Adlet people and, in some versions, Europeans",
+      "themes": "Proper social boundaries, transformation, origin of different peoples"
+    },
+    "modern_era": "Adlet appear in studies of Inuit mythology, comparative mythology examining dog-headed people across cultures, and fantasy media drawing on world mythology."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Inuit creation myths",
+        "Origin stories",
+        "Boundary tales (human/animal)"
+      ],
+      "stories": [
+        "Woman who married a dog",
+        "Birth of Adlet as first offspring",
+        "Adlet as ancestors of other peoples"
+      ],
+      "beliefs": "Served to explain existence of other peoples, reinforce social boundaries, explore human-animal relationships"
+    },
+    "indigenous": {
+      "cultures": [
+        "Inuit peoples",
+        "Greenlandic Inuit",
+        "Canadian Arctic communities"
+      ],
+      "significance": "Part of creation mythology explaining origins of different peoples and reinforcing cultural identity and boundaries",
+      "sensitivity_note": "This is Inuit creation mythology that explains their understanding of other peoples and cultural origins. It should be treated with respect as living cultural tradition and spiritual knowledge, not merely as folklore or fantasy.",
+      "respect_guidelines": "Recognize this as sacred creation mythology within Inuit culture. Consult Inuit communities for proper cultural context. Understand the deep spiritual and cultural significance of origin stories. Avoid treating as merely entertainment or fantasy creature."
+    },
+    "popular_culture": {
+      "literature": [
+        "Comparative mythology studies",
+        "Fantasy literature drawing on world mythology",
+        "Folklore collections"
+      ],
+      "games": [
+        "Fantasy role-playing games",
+        "Games featuring world mythology"
+      ],
+      "other": [
+        "Academic studies of transformation myths",
+        "Comparative studies of dog-headed people myths worldwide"
+      ]
+    }
+  },
+
+  "symbolism": {
+    "themes": [
+      "Transformation",
+      "Liminal beings (between human and animal)",
+      "Origin myths",
+      "Social boundaries",
+      "Cultural identity",
+      "Explanation of other peoples"
+    ],
+    "mythological_function": "Explains origins of both Adlet race and Europeans in Inuit worldview; explores boundaries between human and animal"
+  },
+
+  "cultural_sensitivity": {
+    "note": "The Adlet are part of Inuit creation mythology and origin stories. These are not simply 'monsters' or 'cryptids' but are woven into how Inuit peoples understood the origins of different groups of people, including themselves and outsiders. This is sacred knowledge that deserves the same respect as any creation mythology. The story addresses fundamental questions about human identity, cultural boundaries, and the relationship between humans and animals.",
+    "guidance": "When discussing Adlet, recognize their role in Inuit cosmology and creation stories. Consult with Inuit communities for proper cultural context. Avoid sensationalizing or treating as merely fantasy creatures. Understand the deep cultural function of explaining human origins and relationships between different peoples."
+  },
+
+  "sources": [
+    {
+      "id": "inuit-creation-myths",
+      "type": "oral tradition",
+      "title": "Inuit Creation Mythology",
+      "notes": "Traditional origin stories passed through generations"
+    },
+    {
+      "id": "comparative-mythology",
+      "type": "academic",
+      "title": "Studies of Dog-Headed People Across Cultures",
+      "notes": "Comparative mythology examining cynocephali and related beings worldwide"
+    }
+  ]
+}
